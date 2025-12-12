@@ -1,0 +1,75 @@
+1. SDG RELEVANCE
+Your digital solution must demonstrate relevance to one or more SDGs (Sustainable Development Goals). Find more resources about the SDGs here.
+
+
+Which SDG/s is your solution relevant to?*
+Select SDG/s that are MOST relevant to your solution from the list below.
+
+SDG1: End Poverty in all its forms everywhereSDG2: Zero HungerSDG3: Good Health and Well-BeingSDG4: Quality EducationSDG5: Gender EquitySDG6: Clean Water and SanitationSDG7: Affordable and Clean EnergySDG8: Decent Work and Economic GrowthSDG9: Industry¸ Innovation and InfrastructureSDG10: Reduced InequalitiesSDG11: Sustainable Cities and CommunitiesSDG12: Responsible Consumption and ProductionSDG13: Climate ActionSDG14: Life Below WaterSDG15: Life on LandSDG16: Peace¸ Justice and Strong InstitutionsSDG17: Partnerships for the Goals
+How is your solution relevant to each SDG you’ve selected above?*
+Each SDG has detailed targets that you can learn more about at the SDG tracker. State in a couple of sentences the relationship between your solution and selected SDG(s)’s targets. If you have selected more than one, you will have to establish the relationship for each of them.
+
+The project directly supports SDG 4 (Quality Education) by providing students with a free, open-source tool for academic planning and time management, helping improve educational outcomes and organization.
+
+2. OPEN LICENSING
+Your digital solution must use an approved open license. Find more resources about open licenses here.
+
+
+Which open license(s) is/are used by your solution?*
+Please refer here for the list of approved open licenses. If you do not currently use one of the approved licenses, your solution cannot be approved as a DPG.
+
+0BSDAALAFL-3.0AGPL-3.0Apache-1.1Apache-2.0APL-1.0APSL-2.0Artistic-1.0Artistic-2.0BSD-1-ClauseBSD-2-ClauseBSD-2-Clause-PatentBSD-3-ClauseBSD-3-Clause-LBNLBSL-1.0CAL-1.0CAL-1.0-Combined-Work-ExceptionCATOSL-1.1CC-BY-1.0CC-BY-2.0CC-BY-2.5CC-BY-3.0CC-BY-3.0-ATCC-BY-3.0-USCC-BY-4.0CC-BY-NC-1.0CC-BY-NC-2.0CC-BY-NC-2.5CC-BY-NC-3.0CC-BY-NC-3.0-USCC-BY-NC-4.0CC-BY-NC-SA-1.0CC-BY-NC-SA-2.0CC-BY-NC-SA-2.5CC-BY-NC-SA-3.0CC-BY-NC-SA-3.0-USCC-BY-NC-SA-4.0CC-BY-SA-1.0CC-BY-SA-2.0CC-BY-SA-2.5CC-BY-SA-3.0CC-BY-SA-3.0-ATCC-BY-SA-3.0-USCC-BY-SA-4.0CC0-1.0CDDL-1.0CECILL-2.1CNRI-PythonCPAL-1.0CPL-1.0ECL-1.0ECL-2.0EFL-1.0EFL-2.0EntessaEPL-1.0EPL-2.0EUDatagridEUPL-1.2FairFrameworx-1.0GPL-2.0GPL-3.0HPNDIPAIPL-1.0ISCLGPL-2.1LGPL-3.0LiLiQ-P-1.1LiLiQ-R-1.1LiLiQ-Rplus-1.1LPL-1.0LPL-1.02LPPL-1.3cMirOSMITMIT-0MotosotoMPL-1.0MPL-1.1MPL-2.0MPL-2.0-no-copyleft-exceptionMS-PLMS-RLMulanPSL-2.0MulticsNASA-1.3NaumenNCSANGPLNokiaNPOSL-3.0NTPOCLC-2.0OdbL-1.0ODC-By-1.0OFL-1.1OFL-1.1-no-RFNOFL-1.1-RFNOGTSLOLDAP-2.8OSET-PL-2.1OSL-1.0OSL-2.1OSL-3.0PDDL-1.0PHP-3.0PHP-3.01PostgreSQLPython-2.0QPL-1.0RPL-1.1RPL-1.5RPSL-1.0RSCPLSimPL-2.0SleepycatSPL-1.0UCL-1.0Unicode-DFS-2015Unicode-DFS-2016UnlicenseUPL-1.0VSL-1.0W3CWatcom-1.0XnetwxWindowsZlibZPL-2.0
+Provide evidence of use of the selected open license(s).*
+Please provide link(s) to public pages where the license(s) selected above are hosted for this project. This could be license file in GitHub repository or a public URL on the project website.
+
+All source code for OpenStudy Planner is licensed under MIT License, allowing free use, modification, and distribution. Reference: https://github.com/w0nsdoof/OpenStudy/blob/main/LICENSE
+
+
+
+3. CLEAR OWNERSHIP
+The organisation that owns this digital solution must be clearly defined. Find more resources about ownership and governance here.
+
+
+Who owns this digital solution?*
+Provide only the full legal name of the organization. If there is no formal organization associated with the solution, please enter the names of the people who own this solution.
+
+OpenStudy team
+Provide evidence(s) of ownership.*
+Please provide link(s) to the copyright, trademarks, or publicly available ownership documentation for the digital solutions. It could be a webpage that clearly defines who owns the digital solution. Terms of Service may also indicate the ownership of the digital solutions. Additional legal documentation that provides supporting information will strengthen your application. Digital solutions owned by a parent organisation, could highlight the digital solutions on their website to strengthen the application.
+
+The project is maintained by the OpenStudy Planner development team, clearly documented in README.md with proper attribution and contact information for contributors and users.
+Type of organisation that owns the solution (optional)
+Please select the one that is most applicable to your solution.
+
+
+Academic
+Where is the owner based?*
+Please select the country where the organization is legally established or registered.
+
+
+Kazakhstan
+Do you own all of the code, content and/or data in this collection?
+For content collections and data sets, please indicate whether all of the content/data included in the collection are owned/licensed by the owner indicated above. For software please indicate if you own the code copyright.
+
+
+No
+Do you have the right to re-distribute this data, content or code?
+Provide evidence to demonstrate the right to reproduce and/or distribute all of the content or data sets included in the collection. Acceptable evidence includes licensing agreements for copyright work or evidence of public domain for copyright-free work. For code, this could be a Contributor License Agreement.
+
+4. PLATFORM INDEPENDENCE
+If your digital solution has any mandatory dependencies that create more restrictions than the original license, then there should be open alternatives so that such dependencies can be replaced with the alternatives without making significant changes to the core digital solution. Find more resources about platform independence here.
+
+
+Which are the core technologies your solution depends on?
+Please provide a list of the core dependencies required to install and/or use the solution. This can include the main dependencies such as programming languages, frameworks, databases, and similar.
+
+OpenStudy Planner is a web application that works in any modern browser (Chrome, Firefox, Safari, Edge) and is not tied to any specific operating system or device, ensuring universal accessibility.
+
+Does this solution use any closed components that create proprietary dependency?*
+You will be required to answer the next question if you select Yes.
+
+
+No
+How can these closed component(s) be replaced with open alternative(s)?
+Please provide a list of open alternatives for the closed component(s) and demonstrate that these closed component(s) can be replaced with minimal configuration changes without requiring a major overhaul of the entire system. This requirement can be best answered by a technical member of your team.
+
